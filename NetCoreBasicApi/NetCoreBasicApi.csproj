@@ -5,4 +5,19 @@
   </PropertyGroup>
 
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Model\" />
+    <Folder Include="Service\" />
+    <Folder Include="Model\CommonModels\" />
+    <Folder Include="Model\Contracts\" />
+    <Folder Include="Model\DataModel\" />
+    <Folder Include="Model\OptionsModel\" />
+    <Folder Include="Service\ApplicationServices\" />
+    <Folder Include="Service\ServiceImplementations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
 </Project>
