@@ -1,5 +1,5 @@
 # NetCoreBasicApi
 
-This repo is NET CORE Api tutorial for me. This api includes;
--Basic template of net core api
--Swagger UI
+This repo is NET CORE Api tutorial for me and basic template of net core api. This api includes;
+
+	-Swagger UI
